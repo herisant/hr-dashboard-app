@@ -1,0 +1,6 @@
+{
+  "name": "PeoplePulse HR - Startup Workforce Dashboard",
+  "description": "Modern HR analytics and workforce management dashboard for tech startups featuring attendance trends, employee directory, and department filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
